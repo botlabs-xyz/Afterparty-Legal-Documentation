@@ -47,7 +47,7 @@ Our documentation is designed to support compliance with:
 * **[Cookie Policy](legal/Cookie-Policy)**
   Explains cookie usage and related tracking technologies.
 
-* **[License](LICENSE)**
+* **[License](https://github.com/botlabs-xyz/Afterparty-Legal-Documentation/blob/main/legal/LICENSE)**  
   Contains licensing information for this repository.
 
 ---
