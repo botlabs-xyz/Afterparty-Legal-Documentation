@@ -38,16 +38,16 @@ Our documentation is designed to support compliance with:
 
 ## 📁 Legal Documents
 
-* **[Privacy Policy](legal/privacy-policy)**
-  Explains what information we collect, how information is used, and user privacy rights.
+- **[Privacy Policy](legal/privacy-policy)**  
+  Explains what information we collect, how we use it, and user privacy rights.
 
-* **[Terms of Service](legal/terms-of-service)**
+- **[Terms of Service](legal/terms-of-service)**  
   Defines acceptable use, limitations, responsibilities, and service expectations.
 
-* **[Cookie Policy](legal/Cookie-Policy)**
+- **[Cookie Policy](legal/Cookie-Policy)**  
   Explains cookie usage and related tracking technologies.
 
-* **[License](https://github.com/botlabs-xyz/Afterparty-Legal-Documentation/blob/main/legal/LICENSE)**  
+- **[License](legal/LICENSE)**  
   Contains licensing information for this repository.
 
 ---
