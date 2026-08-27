@@ -15,10 +15,8 @@ These documents apply to the following bots under the Afterparty Bot Labs networ
 * **Lofi Vibes**
 * **VoiceMaestro**
 * **VerifyBot**
-* **KitsuBot**
 * **NovaPulse**
 * **Versa**
-* **The Guardian Link**
 
 Additional projects may be added as the Afterparty Bot Labs network continues to grow.
 
