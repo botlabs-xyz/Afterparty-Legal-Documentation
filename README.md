@@ -103,6 +103,10 @@ Support us:
 
 https://patreon.com/AfterpartyClub
 
+For information about our official hosting partners and community benefits, please visit the Afterparty Bot Labs website:
+
+https://afterpartylabs.xyz
+
 ---
 
 © 2026 Afterparty Bot Labs. All Rights Reserved.
